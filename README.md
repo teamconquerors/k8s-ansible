@@ -1,9 +1,4 @@
 
-#  **<span style="color:green">Landmark Technology.</span>**
-### **<span style="color:green">Contacts: +1437215 24 83   +1 437 215 2483 <br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com         mylandmarktech@gmail.com**
-
-
 ## **Agenda: Infrastructure Automation Using Terraform and Ansible With Dynamic Inventory to configure a Kubernetes Cluster**
 ## Terraform, Ansible Installation And Setup In AWS EC2 Redhat Instnace.
 ##### Prerequisite
